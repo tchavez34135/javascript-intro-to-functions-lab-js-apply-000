@@ -1,4 +1,4 @@
 function shout(string) {return string.toUpperCase ()}
 function whisper(string) {return string.toLowerCase ()}
 function logShout(string) { return string.toUpperCase () } 
-console.log(func(logShout)); 
+console.log(hello); 
